@@ -1,0 +1,7 @@
+AuthName "ka2006.scem.westernsydney.edu.au statistics"
+AuthType Basic
+AuthUserFile /home/ka2006/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

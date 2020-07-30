@@ -1,0 +1,430 @@
+# Webalizer V2.23-08 Incremental Data - 06/30/2020 19:21:11
+2020 6 30 19 21 11
+45268 44116 5 79 37 33 2062092341 3252 112 0
+1 26 2613 1 30
+360 355 8254160 2 38 5
+1914 1855 93385246 3 144 7
+262 257 15182882 3 18 5
+138 133 4085350 2 15 3
+4347 4224 300672491 2 325 14
+1906 1808 130844034 2 170 10
+5649 5463 261516499 2 427 15
+9796 9643 338677490 3 593 16
+5263 5127 313287157 2 392 13
+14357 14017 532533612 2 1024 11
+61 61 2610423 1 3 1
+484 477 27658464 2 28 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+75 72 3560274 1 10 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+502 472 22545004 2 56 4
+0 0 0 0 0 0
+1 1 8725 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+32 32 3486925 1 1 1
+77 75 3084907 1 5 1
+18 18 8725 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+26 26 689973 1 1 1
+0 0 0 0 0 0
+2751 2692 135536556 192
+5130 5050 131454650 336
+2512 2483 102705737 138
+1110 1058 92007871 97
+919 883 45868569 74
+1363 1340 48464067 87
+1819 1811 46746692 91
+252 242 9822830 20
+765 742 29365484 52
+741 712 46773325 63
+916 893 39579161 73
+1243 1208 43161212 107
+3788 3667 170247159 293
+2266 2215 100137322 160
+2396 2331 136884549 171
+963 930 73240286 73
+2319 2257 137048519 168
+2787 2699 152045566 204
+4038 3943 133487412 270
+734 701 51831627 81
+298 280 27629400 31
+632 586 65944061 66
+2879 2824 129090678 199
+2647 2569 113019608 206
+13
+0
+0
+44116
+0
+0
+0
+0
+0
+38
+0
+31
+523
+0
+77
+0
+0
+0
+0
+0
+0
+32
+28
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+410
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 1366 0 172532688 0 0
+/public/vendor/bootstrap/css/bootstrap.min.css
+0 1 0 124962 0 0
+/public/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2
+0 1 0 38384 0 0
+/public/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+0 1 0 31000 0 0
+/images/icons/favicon.ico
+0 353 0 11309414 0 0
+/vendor/animsition/css/animsition.min.css
+0 2017 0 0 0 0
+/public/vendor/animsition/css/animsition.min.css
+0 1 0 27478 0 0
+/password/reset/661c0fd66630846ee507d1d1886650a0e3e382f8201be1fc53f7f0558077cee5
+0 2 0 13754 0 0
+/vendor/daterangepicker/daterangepicker.css
+0 2014 0 0 0 0
+/register
+0 61 0 562985 1 3
+/vendor/bootstrap/js/popper.js
+0 1904 0 0 0 0
+/public/js/app.js
+0 3 0 534951 0 0
+/public/fonts/iconic/css/material-design-iconic-font.min.css
+0 1 0 70815 0 0
+/vendor/font-awesome-4.7/css/font-awesome.min.css
+0 2039 0 0 0 0
+/vendor/select2/select2.min.js
+0 1911 0 0 0 0
+/vendor/daterangepicker/daterangepicker.js
+0 1911 0 0 0 0
+/public/vendor/jquery/jquery-3.2.1.min.js
+0 2 0 173318 0 0
+/vendor/jquery/jquery-3.2.1.min.js
+0 1890 0 0 0 0
+/password/reset
+0 54 0 409346 0 0
+/public/vendor/datepicker/daterangepicker.css
+0 1 0 8163 0 0
+/password/reset/08f160aa4dc998467c7dab63a66382e4accf8522664f8c14b03d640f46ce50d7
+0 2 0 17127 0 0
+/public/vendor/animsition/js/animsition.min.js
+0 1 0 5615 0 0
+/public/vendor/countdowntime/countdowntime.js
+0 1 0 1340 0 0
+/public/csv
+0 2 0 20238 0 0
+/public/fonts/poppins/Poppins-Regular.ttf
+0 3 3329344509878678321 270145 0 0
+/vendor/bootstrap/css/bootstrap.min.css
+0 2047 3761967138302275841 0 0 0
+/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+0 911 30049 28241000 0 0
+/public/history
+0 2 0 38176 0 1
+/vendor/animsition/js/animsition.min.js
+0 1898 0 0 0 0
+/public/css/main.css
+0 1 0 24167 0 0
+/favicon.ico
+0 480 0 0 0 0
+/fonts/poppins/Poppins-Medium.ttf
+0 128 0 18370048 0 0
+/images/bg5.jpg
+1 33 0 101471909 0 0
+/fonts/poppins/Poppins-Bold.ttf
+0 129 0 18222540 0 0
+/js/app.js
+0 362 0 118324489 0 0
+/history
+0 578 0 8194414 9 11
+/public/
+0 2 0 17912 0 0
+/vendor/countdowntime/countdowntime.js
+0 1901 0 0 0 0
+/public/vendor/daterangepicker/moment.min.js
+0 1 0 46645 0 0
+/public/vendor/bootstrap/js/popper.js
+0 1 0 81670 0 0
+/public/css/util.css
+0 3 0 157245 0 0
+/public/js/global.js
+0 1 0 1891 0 0
+/vendor/css-hamburgers/hamburgers.min.css
+0 2015 0 0 0 0
+/public/vendor/daterangepicker/daterangepicker.js
+0 1 0 69776 0 0
+/search
+0 19 0 249408 0 0
+/vendor/select2/select2.min.css
+0 2017 0 0 0 0
+/public/js/main.js
+0 1 0 1747 0 0
+/calculation
+0 96 0 1561019 6 8
+/js/main.js
+0 363 0 593981 0 0
+/login
+0 94 0 801960 7 8
+/public/vendor/animate/animate.css
+0 1 0 23848 0 0
+/public/fonts/poppins/Poppins-Medium.ttf
+0 1 0 143516 0 0
+/fonts/poppins/Poppins-Regular.ttf
+0 306 0 44465472 0 0
+/fonts/iconic/css/material-design-iconic-font.min.css
+0 911 0 64512465 0 0
+/public/vendor/css-hamburgers/hamburgers.min.css
+0 1 0 19686 0 0
+/public/vendor/select2/select2.min.js
+0 1 0 66664 0 0
+/vendor/mdi-font/css/material-design-iconic-font.min.css
+0 2034 0 0 0 0
+/images/bg1.jpg
+1 486 0 1060291103 0 0
+/public/vendor/daterangepicker/daterangepicker.css
+0 1 0 8163 0 0
+/public/vendor/select2/select2.min.css
+0 1 0 15196 0 0
+/vendor/daterangepicker/moment.min.js
+0 1915 0 0 0 0
+/vendor/bootstrap/js/bootstrap.min.js
+0 1906 0 0 0 0
+/public/vendor/bootstrap/js/bootstrap.min.js
+0 1 0 51143 0 0
+/public/home
+0 1 0 18920 0 0
+/home
+0 669 0 11070796 11 28
+/guest
+0 181 0 2531985 8 28
+/vendor/animate/animate.css
+0 2055 0 0 0 0
+/css/util.css
+0 985 0 84296394 0 0
+/
+0 428 0 3736334 62 17
+/js/global.js
+0 519 0 523116 0 0
+/css/main.css
+0 942 0 22499579 0 0
+/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2
+0 181 0 6947504 0 0
+/public/vendor/font-awesome-4.7/css/font-awesome.min.css
+0 1 0 31004 0 0
+/fonts/iconic/fonts/Material-Design-Iconic-Font.woff
+0 1 0 50312 0 0
+/public/fonts/poppins/Poppins-Bold.ttf
+0 1 0 141260 0 0
+/public/css/app.css
+0 1 0 127802 0 0
+/csv
+0 43 0 173035 0 2
+/public/vendor/mdi-font/css/material-design-iconic-font.min.css
+0 1 0 70815 0 0
+/vendor/datepicker/daterangepicker.css
+0 2031 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+101.166.14.230
+0 56 54 6326726 1 1591581835
+/home
+cpe-124-190-197-159.bjui-cr-102.cht.nsw.bigpond.net.au
+0 87 85 3914078 1 1591118689
+/home
+evazan.scem.uws.edu.au
+0 37467 36577 1851451589 50 1592596148
+/home
+ic2-gawaine.scem.uws.edu.au
+0 7605 7385 196530294 59 1593544870
+/
+kwd-065.scem.uws.edu.au
+0 53 53 3869654 1 1591194894
+/guest
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ic2-gawaine.scem.uws.edu.au
+0 26 26 689973 1 1593544870
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://ka2006.scem.westernsydney.edu.au/password/reset
+0 954
+https://ka2006.scem.westernsydney.edu.au/public/
+0 31
+https://ka2006.scem.westernsydney.edu.au/
+0 7950
+https://ka2006.scem.westernsydney.edu.au/upload
+0 98
+https://l.instagram.com/
+0 5
+https://ka2006.scem.westernsydney.edu.au/login onclick
+0 1
+https://ka2006.scem.westernsydney.edu.au/public/home
+0 6
+https://ka2006.scem.westernsydney.edu.au/css/main.css
+0 560
+https://ka2006.scem.westernsydney.edu.au/historry
+0 1
+https://ka2006.scem.westernsydney.edu.au/js/main.js
+0 1
+https://ka2006.scem.westernsydney.edu.au/users/export
+0 1
+https://ka2006.scem.westernsydney.edu.au/register
+0 1117
+https://ka2006.scem.westernsydney.edu.au/history/1
+0 1
+https://ka2006.scem.westernsydney.edu.au/history
+0 11798
+https://ka2006.scem.westernsydney.edu.au/public/history
+0 6
+- (Direct Request)
+0 531
+https://ka2006.scem.westernsydney.edu.au/seerch
+0 1
+https://ka2006.scem.westernsydney.edu.au/history/2
+0 2
+https://ka2006.scem.westernsydney.edu.au/historu
+0 1
+https://ka2006.scem.westernsydney.edu.au/cig_bin
+0 2
+http://m.facebook.com/
+0 1
+https://ka2006.scem.westernsydney.edu.au/calculation
+0 2134
+https://ka2006.scem.westernsydney.edu.au/history/csv
+0 10
+https://ka2006.scem.westernsydney.edu.au/search
+0 344
+https://ka2006.scem.westernsydney.edu.au/password/email
+0 5
+https://ka2006.scem.westernsydney.edu.au/login
+0 1806
+https://ka2006.scem.westernsydney.edu.au/public/vendor/mdi-font/css/material-design-iconic-font.min.css
+0 1
+https://ka2006.scem.westernsydney.edu.au/guest
+0 3104
+https://ka2006.scem.westernsydney.edu.au/fonts/iconic/css/material-design-iconic-font.min.css
+0 176
+https://ka2006.scem.westernsydney.edu.au/cig-bin/testWebPy.py
+0 6
+https://l.facebook.com/
+0 2
+https://ka2006.scem.westernsydney.edu.au/password/reset/661c0fd66630846ee507d1d1886650a0e3e382f8201be1fc53f7f0558077cee5
+0 8
+https://ka2006.scem.westernsydney.edu.au/home
+0 14538
+https://ka2006.scem.westernsydney.edu.au/csv
+0 8
+https://ka2006.scem.westernsydney.edu.au/cig-bin
+0 3
+https://ka2006.scem.westernsydney.edu.au/password/reset/08f160aa4dc998467c7dab63a66382e4accf8522664f8c14b03d640f46ce50d7
+0 50
+https://ka2006.scem.westernsydney.edu.au/public/css/main.css
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:76.0) Gecko/20100101 Firefox/76.0
+0 53
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 102
+Mozilla/5.0 (Linux; Android 9; CPH1979 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/8
+0 95
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+0 11264
+Mozilla/5.0 (Android 10; Mobile; rv:76.0) Gecko/76.0 Firefox/76.0
+0 41
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+0 547
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 429
+Mozilla/5.0 (Linux; Android 9; SM-G955F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+0 71
+Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+0 42
+Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 52
+Mozilla/5.0 (Linux; Android 9; CPH1979) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+0 208
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 42
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Mobile Saf
+0 465
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 
+0 164
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 2925
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 451
+Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+0 51
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+0 367
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0
+0 57
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Mobile Safa
+0 827
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [F
+0 156
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 31
+Mozilla/5.0 (Linux; Android 10; SM-G975F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 22
+Mozilla/5.0 (Linux; Android 7.0; SM-N920T Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.41
+0 147
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 26127
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:76.0) Gecko/20100101 Firefox/76.0
+0 44
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.9 Safari/537.36
+0 95
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 134
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 44
+Mozilla/5.0 (Android 10; Mobile; rv:77.0) Gecko/77.0 Firefox/77.0
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBA
+0 149
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
