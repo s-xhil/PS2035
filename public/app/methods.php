@@ -4,12 +4,12 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class method_table extends Model
+class methods extends Model
 {
     //
      protected $fillable = [
 
-      'method_id', 'pyhton_script_path',
+      'method_id', 'method_name', 'python_script_path',
 
     ];
 

@@ -4,7 +4,7 @@
 
 <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm" >
              <div class="container">
-               
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -25,7 +25,7 @@
      				   		</div>
                        	 </form>
       				   </li> -->
-                 
+
    <li class="nav-item">
                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
@@ -37,9 +37,9 @@
 
   </div>
 </li>
-  
- 
-   					
+
+
+
                     </ul>
 
                     <!-- Right Side Of Navbar -->
@@ -58,21 +58,21 @@
                                         @csrf
                                     </form>
 
-                               
+
                             </li>
                     		<li class="nav-item">
                             	<div style = "background: coral; border-radius: 20px;">
                                 <a class="nav-link" href="{{ route('csv') }}">{{ __('Download History') }}</a>
                                 </div>
                         	</li>
-                             
-                   
+
+
                     </ul>
                 </div>
             </div>
         </nav>
 
-<body style="background-image: url('/images/bg1.jpg')"> 
+<body style="background-image: url('/images/bg1.jpg')">
 
 <div class="overflow-auto">
 <div class="table-responsive">
@@ -95,14 +95,14 @@
           <th scope="col"><a href='/history?radio_1.4'>Radio 1.4</th>
           <th scope="col"><a href='/history?redshift_result'>Redshift Result</th>
 
-      
+
     </tr>
   </thead>
   <tbody>
-   
+
         @foreach($calculations as $calculation  )
          <tr>
-    <th scope="row">{{ $calculation->assigned_calc_ID }}</th>
+    <th scope="row">{{ $calculation->assigned_calc_id }}</th>
       <td>{{ $calculation->optical_u }}</td>
       <td>{{ $calculation->optical_g }}</td>
      <td>{{ $calculation->optical_r }}</td>
@@ -118,7 +118,7 @@
       <td>{{ $calculation->redshift_result }}</td>
  </tr>
         @endforeach
-     
+
   </tbody>
 </table>
 </div>

@@ -23,7 +23,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-    	$dropdowns = DB::table('method_tables')->select('method_id','python_script_path')->get();
+    	$dropdowns = DB::table('methods')->select('method_id','python_script_path','method_name')->get();
         return view('calculation', compact("dropdowns"));
     }
 }

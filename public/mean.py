@@ -6,7 +6,7 @@ def main():
     
 	for i in range(1, len(sys.argv), 1):
 		sum = sum + float(sys.argv[i])
-	
+        
 	print(sum/12)
 	return sum
 

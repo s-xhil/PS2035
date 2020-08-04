@@ -20,7 +20,7 @@
 </head>
 <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm" >
             <div class="container">
-                <a class="nav-link" href="{{ route('home') }}"><h2 id="redshift">RedShift Estimator</h2></a> 
+                <a class="nav-link" href="{{ route('home') }}"><h2 id="redshift">RedShift Estimator</h2></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
-                   
+
                     </ul>
 
                     <!-- Right Side Of Navbar -->
@@ -36,10 +36,10 @@
                         <!-- Authentication Links -->
                         <li class="nav-item">
                            <a class="nav-link" href="{{ route('history') }}">{{ __('History') }}</a>
-                        
+
                     </li>
                             <li class="nav-item">
-                            
+
                               <a class="nav-link" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
@@ -49,10 +49,10 @@
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
                                     </form>
-                               
+
                             </li>
                    <h4 class="nav-link"> {{ Auth::user()->name }} </h4>
-                   
+
                     </ul>
                 </div>
             </div>
@@ -157,14 +157,14 @@
                                     <input id="radio_one_four" step="any" type="number" class="input--style-4" name="radio_one_four" value="{{ old('radio_one_four') }}" required autocomplete="radio_one_four" autofocus>
                                 </div>
                             </div>
-                          
-       						
-                    	
+
+
+
                             <div class="col-4">
                                 <div class="input-group" style="text-align:center">
                                     <label class="label text-md-right">Calculation Method</label>
-                                	
-                                    <select name="method_ID" id="method" name="dropdown" onchange="update_var()">
+
+                                    <select name="method_id" id="method" name="dropdown" onchange="update_var()">
        									 @foreach($dropdowns as $dropdown)
         								 <option value="{{ $dropdown->method_id}}">{{ $dropdown->python_script_path}}</option>
         								@endforeach
@@ -175,19 +175,19 @@
 								}
                                 </script>
                                 </div>
-                            	
+
                             </div>
                           </div>
-                        
+
                         <div class="p-t-15" style="margin-left:33%">
                             <button class="btn btn--radius-2 btn--blue" type="submit">Calculate</button>
-					 
+
                         </div>
                     </form>
                          <div class="input-group" style = "margin-top: 20px">
                          	<div class="custom-file">
                         		<form enctype="multipart/form-data" action="{{ route('upload') }}" method="POST">
-                            	@csrf  
+                            	@csrf
                             	 <input type="file" class="custom-file-input" id="fileInput" name="fileToUpload">
                                 <input type ="number" style="display:none" name = "method_id_for_files" id="method_id_for_files" value= "1">
    							 	<label id = "inputLable" class="custom-file-label" for="fileInput">
@@ -198,18 +198,18 @@
                                 </script>
                                 Choose File
                                 </label>
- 								
-  								
+
+
 							</div>
                             <div class="input-group-append">
    									 <button class = "btn_upload" type="submit" value="Upload">Upload</button>
   							</div>
-  								</form>	
+                        </form>
                     	</div>
                 </div>
             </div>
         </div>
     </div>
 
-    
+
  @endsection
